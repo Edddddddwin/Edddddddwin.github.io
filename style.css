@@ -1,0 +1,66 @@
+header {
+    background-color: rgb(253, 235, 75);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(images/boy.png);
+    background-repeat:no-repeat;
+    margin-bottom: 20px;
+    height:150px
+}
+
+h1 {
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.law {
+    background-color:rgb(220, 212, 139);;
+}
+
+.overall{
+    background-color:rgb(220, 212, 139);
+    height: 100px;
+} 
+
+.ch1{
+    background-color:lemonchiffon;
+}
+
+.ch2{
+    background-color:rgb(220, 212, 139);
+} 
+
+.ch3{
+    background-color:lemonchiffon;
+}
+
+.scheduel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lemonchiffon;
+}
+
+.recruitment{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:lemonchiffon;
+    margin-bottom:20px;
+}
+
+.award {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:rgb(220, 212, 139);
+    background-image: url(images/award\ \(2\).png);
+    height: 250px;
+}
+
+footer{
+    background-color:rgb(175, 76, 76)
+}
